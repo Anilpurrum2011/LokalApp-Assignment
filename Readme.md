@@ -84,8 +84,8 @@ expo start
 ## Screenshots
    
    ### Displays job cards
-     ![alt text](src/assets/IMG-20250403-WA0005.jpg)
-     ![alt text](src/assets/IMG-20250403-WA0004.jpg)
+     ![alt image](src/assets/IMG-20250403-WA0005.jpg)
+     ![alt image](src/assets/IMG-20250403-WA0004.jpg)
 
 
 ## Video Demo
