@@ -95,7 +95,7 @@ expo start
       
 ### Video Demo :
 
-[![Watch the Demo Video](https://img.shields.io/badge/▶-Watch_Demo_Video-blue?style=for-the-badge&logo=google-drive)] https://drive.google.com/file/d/1n_AxJZ-_JwIhPB34GLHrqpPYubD3N1Gq/view?usp=sharing
+[![Watch the Demo Video]( https://drive.google.com/file/d/1n_AxJZ-_JwIhPB34GLHrqpPYubD3N1Gq/view?usp=sharing)]
 
 ## Code Structure:
 
