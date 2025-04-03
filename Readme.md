@@ -81,19 +81,9 @@ expo start
 - **React Native Vector Icons**
 - **Expo** (for cross-platform development)
 
-<<<<<<< HEAD
 ## Screenshots :
 
       
-=======
-## Screenshots
-   
-   ### Displays job cards
-
-     ![alt text](src/assets/IMG-20250403-WA0005.jpg)
-     ![alt text](src/assets/IMG-20250403-WA0004.jpg)
-
->>>>>>> a05b082 (Saving changes)
 ## Video Demo
 
 (Link to video demonstration)
