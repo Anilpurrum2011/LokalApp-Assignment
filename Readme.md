@@ -95,10 +95,7 @@ expo start
       
 ### Video Demo
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Anilpurrum2011/LokalApp-Assignment/raw/main/LokalApp%20Screenrecoder.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo GIF](https://github.com/Anilpurrum2011/LokalApp-Assignment/raw/main/demo.gif)
 
 ## Code Structure:
 
