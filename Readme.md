@@ -95,7 +95,7 @@ expo start
       
 ## Video Demo :
 
-https://github.com/Anilpurrum2011/LokalApp-Assignment/raw/main/LokalApp%20Screenrecoder.mp4
+https://user-images.githubusercontent.com/87002524/170706372-9cadcd73-2f1e-41d2-b61a-d9b8042cbd95.mp4
 
 ## Code Structure:
 
