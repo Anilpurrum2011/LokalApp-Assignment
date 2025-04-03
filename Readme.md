@@ -94,8 +94,8 @@ expo start
 <table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/f0c48798-31d8-4f32-9333-096b9c346b9e" width="400"></td> <td><img src="https://github.com/user-attachments/assets/4242a33a-c231-472a-9d2a-31c368755cb2" width="400"></td> </tr> </table>
       
 ### Video Demo :
-
-[![Watch the Demo Video]( https://drive.google.com/file/d/1n_AxJZ-_JwIhPB34GLHrqpPYubD3N1Gq/view?usp=sharing)]
+ 
+https://drive.google.com/file/d/1n_AxJZ-_JwIhPB34GLHrqpPYubD3N1Gq/view?usp=sharing
 
 ## Code Structure:
 
