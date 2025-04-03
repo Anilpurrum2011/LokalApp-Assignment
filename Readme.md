@@ -48,7 +48,7 @@ This is a React Native application built with Expo that allows users to browse j
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-native-jobs-app.git
+git clone https://github.com/Anilpurrum2011/LokalApp-Assignment.git
 cd react-native-jobs-app
 ```
 
@@ -124,6 +124,6 @@ App.js
 
 ## Author
 
-Purru Annaiah
-anilpurrum@gmail.com
-https://github.com/Anilpurrum2011/
+- Purru Annaiah
+- anilpurrum@gmail.com
+- https://github.com/Anilpurrum2011/
