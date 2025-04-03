@@ -56,7 +56,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Anilpurrum2011/LokalApp-Assignment.git
-cd react-native-jobs-app
+cd LOKALAPP
 ```
 
 Install dependencies:
