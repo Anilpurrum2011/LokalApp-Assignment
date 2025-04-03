@@ -93,9 +93,12 @@ expo start
 ### Bookmark Functionality :
 <table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/f0c48798-31d8-4f32-9333-096b9c346b9e" width="400"></td> <td><img src="https://github.com/user-attachments/assets/4242a33a-c231-472a-9d2a-31c368755cb2" width="400"></td> </tr> </table>
       
-## Video Demo :
+### Video Demo
 
-https://user-images.githubusercontent.com/87002524/170706372-9cadcd73-2f1e-41d2-b61a-d9b8042cbd95.mp4
+<video width="640" height="360" controls>
+  <source src="https://github.com/Anilpurrum2011/LokalApp-Assignment/raw/main/LokalApp%20Screenrecoder.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Code Structure:
 
