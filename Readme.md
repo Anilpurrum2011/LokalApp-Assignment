@@ -82,13 +82,22 @@ expo start
 - **Expo** (for cross-platform development)
 
 ## Screenshots :
+### Jobs Screen :
+  <table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/8131d1c3-1367-401e-9aa9-b48dac336e74" width="400"></td> <td><img src="https://github.com/user-attachments/assets/0c43a795-373c-4e66-bfae-fc4c09ae16f0" width="400"></td> </tr> </table>
 
+</p>
+
+### Job Details Screen : 
+<table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/2372d14e-9e39-4f3b-8bd8-e113c137927e" width="400"></td> <td><img src="https://github.com/user-attachments/assets/ea3535cd-aa7b-4b04-bbb3-4c9e116ae357" width="400"></td> </tr> </table>
+
+### Bookmark Functionality :
+<table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/f0c48798-31d8-4f32-9333-096b9c346b9e" width="400"></td> <td><img src="https://github.com/user-attachments/assets/4242a33a-c231-472a-9d2a-31c368755cb2" width="400"></td> </tr> </table>
       
-## Video Demo
+## Video Demo:
 
-(Link to video demonstration)
+  <video controls src="LokalApp Screenrecoder.mp4" title="Title"></video>
 
-## Code Structure
+## Code Structure:
 
 ```plaintext
 /src
@@ -114,7 +123,7 @@ expo start
 App.js
 ```
 
-## Implementation Notes
+## Implementation Notes 
 
 - Used **React Context API** for managing bookmarks state
 - Implemented **custom hooks** for API calls and infinite scrolling
