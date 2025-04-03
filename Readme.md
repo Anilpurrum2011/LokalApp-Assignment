@@ -25,11 +25,18 @@ This is a React Native application built with Expo that allows users to browse j
   - Title
   - Location
   - Salary
-  - Phone number
+  - No. of Vacancies
 
 ### 3. Job Details Screen
 
 - Shows additional details when a job card is clicked
+- - Job Details
+    - Location
+    - salary
+    - Job Type
+    - Qualification
+    - Experience
+
 
 ### 4. Bookmark Functionality
 
@@ -75,8 +82,11 @@ expo start
 - **Expo** (for cross-platform development)
 
 ## Screenshots
+   
+   ### Displays job cards
+     ![alt text](src/assets/IMG-20250403-WA0005.jpg)
+     ![alt text](src/assets/IMG-20250403-WA0004.jpg)
 
-(Include screenshots or GIFs of the app in action here)
 
 ## Video Demo
 
@@ -91,14 +101,16 @@ expo start
     LoadingIndicator.js
     ErrorMessage.js
     EmptyState.js
+    BookmarkButton.js
+    Tag.js
   /screens
     JobsScreen.js
     BookmarksScreen.js
     JobDetailsScreen.js
   /navigation
     AppNavigator.js
-    BottomTabNavigator.js
-  /utils
+    TabBarlcon.js
+  /services
     api.js
     storage.js
   /contexts
